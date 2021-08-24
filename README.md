@@ -27,3 +27,12 @@
 
 # Running django project
 ## python manage.py runserver
+
+# Starting new app in project named polls
+## python manage.py startapp polls
+
+# Making migrations for polls
+## python manage.py makemigrations
+
+# Applying the migrations
+## python manage.py migrate
